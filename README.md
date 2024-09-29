@@ -1,4 +1,4 @@
-# Strava-ML
+# Strava Machine Learning
 Nicholas Elich  
 September 29, 2024
 
