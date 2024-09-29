@@ -11,5 +11,7 @@ As an avid runner and aspiring Data Scientist, I had an exciting opportunity to 
 - Modeling: fitting and tuning the optimal model
 - Inference: making an upcoming race prediction
 
+Please feel free to peruse the notebooks above to see my thought processes!
+
 ## Application
 My next race is a 10k Turkey Trot on November 28th and my model says I should complete the race in just under 38 minutes. I'm excited to see how close it'll be!
