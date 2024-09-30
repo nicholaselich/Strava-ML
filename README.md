@@ -1,6 +1,6 @@
 # Strava Machine Learning
 Nicholas Elich  
-September 29, 2024
+September 2024
 
 ## Background
 As an avid runner and aspiring Data Scientist, I had an exciting opportunity to combine my interests by analyzing my own running data. Using runs recorded on my Garmin Forerunner 735XT watch and uploaded to the popular exercise tracking app Strava, I developed a neural network model with PyTorch to predict my future race times based on predictors such as Elevation Gain and # of Rest Hours. 
