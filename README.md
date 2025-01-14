@@ -15,3 +15,6 @@ Please feel free to peruse the notebooks above to see my thought processes!
 
 ## Application
 My next race is a 10k Turkey Trot on November 28th and my model says I should complete the race in just under 38 minutes. I'm excited to see how close it'll be!
+
+## Race Results
+Elapsed Time: 00:38:48 - my model's prediction was pretty close!
